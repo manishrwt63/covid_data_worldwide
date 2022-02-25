@@ -1,5 +1,6 @@
 # covid_data_worldwide
-analyzed the CSV file, clean the data through SQL
+#DataExploration
+Analyzed the CSV file, clean the data
 first create the table in pgadmin.
 clean the the data.
 remove the null value, blank values.
