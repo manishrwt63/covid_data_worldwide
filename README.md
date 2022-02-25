@@ -5,5 +5,5 @@ clean the the data.
 remove the null value, blank values.
 format the date in dataset in (yyyy-mm-dd).
 
-dataset bcan be downloaded from 
+dataset can be downloaded from 
 https://ourworldindata.org/covid-deaths
